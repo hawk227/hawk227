@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md%20Ashfaque&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=hawk227%20%7C%20full-stack%20dev%2C%20Next.js%20%26%20modern%20web&descAlignY=55&descSize=18" width="100%"/>
+# Md Ashfaque
+### hawk227 | full-stack dev, Next.js & modern web
 
 <a href="https://github.com/hawk227">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Next.js+%2B+React+%2B+TypeScript;Building+full-stack+web+apps;Shipping+fast+with+modern+tooling;Always+learning+the+next+stack" alt="Typing SVG" />
@@ -85,5 +86,3 @@
 </a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
