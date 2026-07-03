@@ -36,41 +36,6 @@
 
 <br/>
 
-## Pinned Projects
-
-<div align="center">
-
-<a href="https://github.com/hawk227/lanhunter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hawk227&repo=lanhunter&theme=radical" />
-</a>
-<a href="https://github.com/hawk227/Strong-Pass">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hawk227&repo=Strong-Pass&theme=radical" />
-</a>
-<br/>
-<a href="https://github.com/hawk227/mysite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hawk227&repo=mysite&theme=radical" />
-</a>
-<a href="https://github.com/hawk227/apitable">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hawk227&repo=apitable&theme=radical" />
-</a>
-
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hawk227&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hawk227&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=4CC9F0&currStreakLabel=4CC9F0"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawk227&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&text_color=c9d1d9"/>
-
-</div>
-
-<br/>
-
 ## Connect
 
 <div align="center">
